@@ -12,7 +12,7 @@ BASE_URL = 'https://api.bybit.com'
 
 # Данные для Telegram-бота
 TELEGRAM_TOKEN = 'your_token'
-TELEGRAM_CHAT_ID = '@your_chat'
+TELEGRAM_CHAT_ID = '@your_chat_id'
 
 # Функция для отправки сообщения в Telegram
 
